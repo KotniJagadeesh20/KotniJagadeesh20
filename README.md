@@ -21,74 +21,69 @@ I enjoy building production-ready applications, exploring distributed systems, a
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
+### 💻 Languages
 
-- Java
-- Python
-- SQL
-- JavaScript
-
----
-
-## Backend
-
-- Spring Boot
-- Spring MVC
-- Spring Security
-- REST APIs
-- Hibernate
-- JPA
-- JWT Authentication
-- Maven
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## Database
+### ⚙️ Backend
 
-- MySQL
-
----
-
-## Cloud & DevOps
-
-- AWS
-- Docker
-- Git
-- GitHub
-- Linux
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
 
-## AI Engineering
+### 🗄️ Database
 
-- Model Context Protocol (MCP)
-- Retrieval-Augmented Generation (RAG)
-- AI Tool Integrations
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## Tools
+### ☁️ Cloud & DevOps
 
-- IntelliJ IDEA
-- VS Code
-- Postman
-- Maven
-- Git
-- GitHub
-- Docker
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## Architecture & Concepts
+### 🤖 AI Engineering
 
-- Microservices
-- System Design
-- Clean Architecture
-- Design Patterns
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
+![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-6A1B9A?style=for-the-badge)
+![Retrieval-Augmented Generation](https://img.shields.io/badge/Retrieval_Augmented_Generation_(RAG)-FF6F00?style=for-the-badge)
+![AI Tool Integration](https://img.shields.io/badge/AI_Tool_Integration-512DA8?style=for-the-badge)
+
+---
+
+### 🛠️ Development Tools
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🏗️ Architecture & Concepts
+
+![Microservices](https://img.shields.io/badge/Microservices-00ACC1?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-1976D2?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-455A64?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-8D6E63?style=for-the-badge)
+![Object-Oriented Programming](https://img.shields.io/badge/OOP-FB8C00?style=for-the-badge)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_&_Algorithms-8E24AA?style=for-the-badge)
 
 ---
 
@@ -131,11 +126,8 @@ Full-stack job portal enabling recruiters and candidates to connect through secu
 
 **Tech Stack**
 
-- Java
-- Spring Boot
-- React
-- MySQL
-- JWT
+- python
+- PostgreSQL
 
 ---
 
