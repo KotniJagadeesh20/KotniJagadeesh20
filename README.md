@@ -11,68 +11,92 @@ Building scalable backend applications, REST APIs, Microservices, and AI-powered
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💼 Software Engineer at **Picktime**
-- 💻 Backend Engineer specializing in **Java & Spring Boot**
-- 🌱 Currently learning **Microservices, AWS, System Design, AI Engineering, MCP, and RAG**
-- 🔭 Building production-ready backend applications and modern AI integrations
-- 💬 Ask me about **Java, Spring Boot, REST APIs, Spring Security, JWT, MySQL, and Backend Architecture**
-- 📫 Reach me at: **your-email@gmail.com**
-- 🌍 Hyderabad, Telangana, India
+I'm a Software Engineer passionate about designing scalable backend systems and solving real-world problems through clean, maintainable software.
+
+Currently, I work primarily with **Java, Spring Boot, REST APIs, Spring Security, and MySQL**, while expanding my expertise in **Microservices, System Design, Cloud Computing (AWS), AI Engineering, RAG, and Model Context Protocol (MCP)**.
+
+I enjoy building production-ready applications, exploring distributed systems, and continuously learning modern backend technologies.
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-### Languages
+## Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Java
+- Python
+- SQL
+- JavaScript
 
-### Backend
+---
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+## Backend
 
-### Database
+- Spring Boot
+- Spring MVC
+- Spring Security
+- REST APIs
+- Hibernate
+- JPA
+- JWT Authentication
+- Maven
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### Cloud & DevOps
+## Database
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+- MySQL
 
-### AI Engineering
+---
 
-- MCP (Model Context Protocol)
-- RAG (Retrieval-Augmented Generation)
+## Cloud & DevOps
+
+- AWS
+- Docker
+- Git
+- GitHub
+- Linux
+
+---
+
+## AI Engineering
+
+- Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG)
 - AI Tool Integrations
 
-### Concepts
+---
+
+## Tools
+
+- IntelliJ IDEA
+- VS Code
+- Postman
+- Maven
+- Git
+- GitHub
+- Docker
+
+---
+
+## Architecture & Concepts
 
 - Microservices
 - System Design
-- OOP
-- Design Patterns
-- Data Structures & Algorithms
 - Clean Architecture
+- Design Patterns
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🚌 Bus Ticket Booking System
+## 🚌 Bus Ticket Booking System
 
-A scalable backend application with role-based authentication and booking management.
+Enterprise-style backend application developed using Java and Spring Boot featuring secure authentication, role-based authorization, booking management, and RESTful APIs.
 
 **Tech Stack**
 
@@ -82,26 +106,28 @@ A scalable backend application with role-based authentication and booking manage
 - JWT
 - MySQL
 - REST APIs
+- Hibernate
+- JPA
 
 ---
 
-### 🤖 Terminal MCP Client & Server
+## 🤖 Terminal MCP Client & Server
 
-Implementation of the Model Context Protocol for AI-powered tool integrations.
+Implementation of the Model Context Protocol (MCP) demonstrating AI tool integration through a modular client-server architecture.
 
 **Highlights**
 
 - MCP Client
 - MCP Server
-- Tool Registration
 - JSON-RPC Communication
+- Tool Registration
 - Extensible Architecture
 
 ---
 
-### 💼 Job Finder Platform
+## 💼 Job Finder Platform
 
-A job portal connecting recruiters and job seekers through secure REST APIs.
+Full-stack job portal enabling recruiters and candidates to connect through secure backend services and REST APIs.
 
 **Tech Stack**
 
@@ -113,32 +139,41 @@ A job portal connecting recruiters and job seekers through secure REST APIs.
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - Microservices
+- Distributed Systems
 - AWS
 - Kubernetes
 - AI Engineering
 - RAG
 - MCP
 - Advanced System Design
-- Distributed Systems
 
 ---
 
-## 📈 GitHub Stats
+# 🎯 2026 Goals
+
+- Build production-grade Microservices
+- Earn AWS Developer Associate Certification
+- Master System Design
+- Develop AI-powered backend applications
+- Contribute to Open Source projects
+- Build scalable cloud-native applications
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KotniJagadeesh20&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KotniJagadeesh20&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KotniJagadeesh20&show_icons=true&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -148,32 +183,25 @@ A job portal connecting recruiters and job seekers through secure REST APIs.
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge)](https://kotnijagadeesh20.github.io/Jagadeesh_Portifolio_React)
+🌍 Portfolio  
+https://kotnijagadeesh20.github.io/Jagadeesh_Portifolio_React/
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jagadeesh-kotni-194a6b260)
+💼 LinkedIn  
+https://www.linkedin.com/in/jagadeesh-kotni-194a6b260
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/KotniJagadeesh20)
+💻 GitHub  
+https://github.com/KotniJagadeesh20
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+📧 Email  
+your-email@gmail.com
 
 ---
 
-<h3 align="center">
-"Building scalable backend systems and continuously learning modern software engineering."
-</h3>
-<!--
-**KotniJagadeesh20/KotniJagadeesh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+### "Building scalable backend systems, exploring AI integrations, and continuously learning modern software engineering."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
